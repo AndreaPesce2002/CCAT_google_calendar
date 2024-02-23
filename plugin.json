@@ -1,0 +1,10 @@
+{
+    "name": "CCAT connect google calendar",
+    "version": "0.0.1",
+    "description": "permette di gestire google calendar",
+    "author_name": "Andrea Pesce",
+    "author_url": "https://github.com/AndreaPesce2002",
+    "plugin_url": "https://github.com/AndreaPesce2002/ccat_google_calendar",
+    "tags": "google, calendar",
+    "thumb": "https://github.com/AndreaPesce2002/ccat_google_calendar/main/logo.jpg"
+}
