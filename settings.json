@@ -1,5 +1,1 @@
-{
-    "range": 30,
-    "credentials": "{\"installed\":{\"client_id\":\"114894442005-vr55hddbfghlmm4hitc4mtl6ipguftvf.apps.googleusercontent.com\",\"project_id\":\"unique-perigee-415113\",\"auth_uri\":\"https://accounts.google.com/o/oauth2/auth\",\"token_uri\":\"https://oauth2.googleapis.com/token\",\"auth_provider_x509_cert_url\":\"https://www.googleapis.com/oauth2/v1/certs\",\"client_secret\":\"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\",\"redirect_uris\":[\"http://localhost\"]}}",
-    "token": "{\"token\": \"ya29.a0AfB_byDcFub1ETi-QZKMS5HbtpX-9Uvco04eiOx3DqRE3F45TdBEvJAZJZPBk6uL56-qumJ5Sdc8yynjjYEBLQ_fCO5aOyd3mJbeX91AgDzFN8iGGwRinj08yzLf-apmvVXDZB2-oCLEeGKl6TrcexFge-bzZVryImC5aCgYKAX0SARESFQHGX2Mi-ibLHlY2SXz5x19oI8YZow0171\", \"refresh_token\": \"1//09lTxdqNpQfKjCgYIARAAGAkSNwF-L9Ir-RJNCFxj2wBYzK4I3NPtpxDX_6vsEueqNruUxSPFIEmXGlMNuCa1lg8_4zFzdBWVaBU\", \"token_uri\": \"https://oauth2.googleapis.com/token\", \"client_id\": \"114894442005-vr55hddbfghlmm4hitc4mtl6ipguftvf.apps.googleusercontent.com\", \"client_secret\": \"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\", \"scopes\": [\"https://www.googleapis.com/auth/calendar\"], \"universe_domain\": \"googleapis.com\", \"account\": \"\", \"expiry\": \"2024-02-23T16:27:56.351527Z\"}"
-}
+
