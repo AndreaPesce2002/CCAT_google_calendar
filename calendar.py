@@ -15,7 +15,7 @@ from googleapiclient.errors import HttpError
 SCOPES = ['https://www.googleapis.com/auth/calendar']
 
 @tool
-def viewEventGoogle(tool_input, cat):  
+def viewEventGoogle(tool_input, cat):
     """to be used to view Google Calendar events"""
     
     try:
